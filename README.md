@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Martin Trenkov</h1>
-<h3 align="center">A computer science student</h3>
 
 <p align="left">
 </p>
